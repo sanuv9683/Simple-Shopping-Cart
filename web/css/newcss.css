@@ -1,0 +1,128 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 26, 2017, 9:18:53 PM
+    Author     : Sanu Vithanage
+*/
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+body{
+   background : url('../img/12.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    /*    width: 100%;*/
+}
+.ssd{
+    margin-left: 70px;
+  /*//  background-color: white;*/
+    background-color: rgba(0, 0, 0, 0.57);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sd{
+    /*background-color: #3b5998;*/
+    background-color: rgba(0, 0, 0, 0.57);
+    height: 60px;
+}
+
+#sd{
+    /*background : url('../img/asss.jpg');*/ 
+    height: 380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.total{
+    text-align: left;
+    margin-top: -30px;
+    color: white;
+    font-size: 50px;
+}
+
+.fi{
+    position: fixed;
+   bottom: -0px;
+    margin-left: -460px;
+    width: 1000px;
+}
+
+#sds{
+    color:white;
+}
+
+#spnTotalItems{
+    margin-top: -20px;
+   
+}
+
+.jumbotron{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     background-color: rgba(0, 0, 0, 0.57);
+}
+
+.navbar-brand{
+    font-size: 28px;
+    color: white;
+}
+
+.foot{
+     /*background-color: #3b5998;*/
+     background-color: rgba(0, 0, 0, 0.57);
+     height: 30px;
+     text-align: center;
+     color: white;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#ft{
+    line-height: 25px;
+}
+
+.fcol{
+    margin-left: 20px;
+}
+
+.but{
+    background-color: red;
+    border: none;
+    width: 20px;
+    height: 6px;
+    margin-left: 10px;
+    border-radius: 100px;
+}
+
+.ds{
+    position: fixed;
+    right: 0;
+    bottom: 180px;
+    margin-right: 150px;
+}
+.wh{
+    color:white;
+}
+.tbl1{
+    color: white;
+   
+}
+
+#nn{
+    overflow-y: scroll;
+     overflow-y: scroll;
+    height: 50px; 
+}
+.RE{
+    color: red;
+   
+}
+
+.act{
+  color:white;
+  text-decoration: underline;
+}
