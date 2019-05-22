@@ -1,4 +1,4 @@
-## Online Web Store App
+## Simple Shopping Cart
 As a client based project, I designed and developed this for a business to sold their products from
 the application to the client. From this my client could able to handle there business more
 profitably.
